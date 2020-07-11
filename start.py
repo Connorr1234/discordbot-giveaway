@@ -8,6 +8,11 @@ from discord.ext import commands
 from datetime import datetime
 from pprint import pprint
 
+
+
+
+
+
 bot = commands.Bot(command_prefix=config.prefix,pm_help=True)
 
 cmdsettings = {}
